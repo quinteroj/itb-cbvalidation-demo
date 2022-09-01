@@ -1,0 +1,8 @@
+{
+    "name":"itb-cbValidation-demo",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}
